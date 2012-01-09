@@ -12,3 +12,6 @@ For MacRuby, {`irb` => `macirb`, `ruby` => `macruby`}
 ### Run the example
 
 `macruby app.rb`
+
+You should see a dialog with a single button. When you click the button,
+an alert will appear. It may be behind the terminal window.
